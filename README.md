@@ -17,7 +17,7 @@ The game was created in Unity, using objects created in Blender.
 
 Detailed information can be found in the [projects paper](https://github.com/UniRegensburg/ge-ws1920-escape/blob/master/Escape/docs/Escape.pdf)
 
-The unity project can be downloaded from the [github project page](https://github.com/AndreasHennings/Escape
+The unity project can be downloaded from the [github project page](https://github.com/AndreasHennings/Escape)
 
 A build for windows can be downloaded [here](https://drive.google.com/drive/folders/1W_XkiOCQ1YRZFWx9mjwAfe6XYLPl4eft?usp=sharing)
 
